@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\רעות פרץ\Desktop\PRIM\Prim_Project\Main.cpp(15,16): warning C4477: 'printf' : format string '%3ld' requires an argument of type 'long', but variadic argument 1 has type 'size_t'
+C:\Users\רעות פרץ\Desktop\PRIM\Prim_Project\Main.cpp(15,16): message : consider using '%zd' in the format string
+C:\Users\רעות פרץ\Desktop\PRIM\Prim_Project\Main.cpp(23,16): warning C4477: 'printf' : format string '%2ld' requires an argument of type 'long', but variadic argument 1 has type 'size_t'
+C:\Users\רעות פרץ\Desktop\PRIM\Prim_Project\Main.cpp(23,16): message : consider using '%zd' in the format string
+  Prim_Project.vcxproj -> C:\Users\רעות פרץ\Desktop\PRIM\Prim_Project\x64\Debug\Prim_Project.exe
